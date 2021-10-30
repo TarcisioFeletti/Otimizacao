@@ -1,0 +1,19 @@
+﻿  TrabalhoOtimização.cpp
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(16,19): warning C4101: 'solucao1': variável local não referenciada
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(127,11): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(152,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(168,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(182,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(228,10): warning C4102: 'LOOP': rótulo não referenciado
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(269,11): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(296,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(304,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(327,13): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(332,27): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(342,11): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(368,15): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(387,51): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(389,73): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(391,79): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(396,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  TrabalhoOtimização.vcxproj -> C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\Debug\TrabalhoOtimização.exe

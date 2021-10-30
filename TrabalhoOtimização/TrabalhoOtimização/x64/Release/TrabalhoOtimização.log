@@ -1,0 +1,20 @@
+﻿  TrabalhoOtimização.cpp
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(19,19): warning C4101: 'solucao1': variável local não referenciada
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(154,29): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(170,34): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(184,33): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(243,26): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(244,26): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(298,29): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(306,29): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(329,27): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(335,27): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(374,15): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(411,29): warning C4305: '=': truncamento de 'int' para 'float'
+C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\TrabalhoOtimização\TrabalhoOtimização.cpp(416,27): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Gerando código
+  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  TrabalhoOtimização.vcxproj -> C:\Users\tarci\OneDrive\Documentos\Estudos\MetodosDeOtimização\Trabalho\otimizacao\TrabalhoOtimização\x64\Release\TrabalhoOtimização.exe
